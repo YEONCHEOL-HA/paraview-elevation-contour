@@ -1,0 +1,15 @@
+# ParaView / 결과물
+paraview_image/
+paraview_output/
+results/
+*.pvsm
+*_elevation.png
+*_contour.png
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
